@@ -31,8 +31,8 @@
   </developers>
 
   <scm>
-    <connection>scm:git:ssh://github.com/page-template-creator.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com:tmarwen/page-template-creator.git</developerConnection>
+    <connection>scm:git:ssh://github.com/tmarwen/page-template-creator</connection>
+    <developerConnection>scm:git:ssh://git@github.com/tmarwen/page-template-creator</developerConnection>
     <url>https://github.com/tmarwen/page-template-creator</url>
     <tag>HEAD</tag>
   </scm>
