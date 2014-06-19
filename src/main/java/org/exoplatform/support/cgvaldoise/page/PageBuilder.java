@@ -190,7 +190,7 @@ public class PageBuilder
         .append(LINEBREAK)
         .append(INDENTATION).append("<access-permissions>Everyone</access-permissions>")
         .append(LINEBREAK)
-        .append(INDENTATION).append("<edit-permission>*:/platform/users</edit-permission>")
+        .append(INDENTATION).append("<edit-permission>*:/platform/administrators</edit-permission>")
         .append(LINEBREAK)
         .append(INDENTATION).append("<portlet-application>")
         .append(LINEBREAK)
