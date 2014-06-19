@@ -14,6 +14,28 @@
 
   <name>CGVALDOISE 143 MOP Page Template Creator</name>
 
+  <developers>
+    <developer>
+      <id>tmarwen</id>
+      <name>Marwen T</name>
+      <email>marwen.trabelsi.insat@gmail.com</email>
+      <url>http://www.wisebrains.com/</url>
+      <organization>Wise Software</organization>
+      <organizationUrl>http://www.wisebrains.com/</organizationUrl>
+      <roles>
+        <role>developer</role>
+        <role>support</role>
+      </roles>
+    </developer>
+  </developers>
+
+  <scm>
+    <connection>scm:git:ssh://github.com/tmarwen/page-template-creator</connection>
+    <developerConnection>scm:git:ssh://git@github.com/tmarwen/page-template-creator</developerConnection>
+    <url>https://github.com/tmarwen/page-template-creator</url>
+    <tag>HEAD</tag>
+  </scm>
+
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
